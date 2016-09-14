@@ -6,3 +6,6 @@ The project contains four files.All of then is needed to upload into the nodmecu
 - `form2.html`, the home-page of web server, using POST method, transform your command into webserver
 - `print.txt`,  embeded in homepage, show the serial response message of nodemcu. 
 - `favcion.ico`, the favicon of websever.
+
+The interface is shown below:
+  <img src="homepage.png"  />
